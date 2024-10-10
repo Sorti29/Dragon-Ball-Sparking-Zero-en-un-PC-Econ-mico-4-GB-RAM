@@ -8,7 +8,7 @@ Este proyecto demuestra cómo jugar el nuevo **Dragon Ball Sparking Zero** en un
 | Componente               | Precio (CLP) | Precio (USD) |
 |--------------------------|--------------|--------------|
 | Procesador FX 6300       | $5,000       | $5.56        |
-| Memoria RAM 4 GB         | $5,000       | $5.56        |
+| Memoria RAM 4 GB  ddr3   | $5,000       | $5.56        |
 | Fuente Corsair           | $15,000      | $16.67       |
 | SSD 250 GB               | $15,000      | $16.67       |
 | Tarjeta Gráfica GTX 1050 | $40,000      | $44.44       |
