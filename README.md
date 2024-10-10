@@ -45,35 +45,31 @@ En esta configuración, el juego logra un promedio de 60 FPS. Se realizaron ajus
 ### Capturas de Pantalla del Juego y Configuración
 
 1. ![Configuración del Juego](./RecortesProyecto4RAM/Ajustes.png)
-2. ![Información del GPU](./imagenes/GPU.PNG)
-3. ![Información del PC](./imagenes/InfoPC.PNG)
-4. ![Juego en acción](./imagenes/Juego.png)
-5. ![Sistema Operativo](./imagenes/SO.PNG)
+2. ![Información del GPU](./RecortesProyecto4RAM/GPU.PNG)
+3. ![Información del PC](./RecortesProyecto4RAM/InfoPC.PNG)
+4. ![Juego en acción](./RecortesProyecto4RAM/Juego.png)
+5. ![Sistema Operativo](./RecortesProyecto4RAM/SO.PNG)
 
 ### Imágenes de los Componentes
 
 Aquí se incluyen imágenes reales de los componentes utilizados en este proyecto:
 
 1. **Procesador FX 6300**
-   ![Procesador FX 6300](./imagenes/Procesador.png)
 
-2. **Memoria RAM 4 GB**
-   ![Memoria RAM](./imagenes/RAM.png)
+2. **Placa Madre AM3+**)
 
-3. **Tarjeta Gráfica GTX 1050**
-   ![GTX 1050](./imagenes/GTX1050.png)
+3. **Memoria RAM 4 GB**
+   ![Memoria RAM](./RecortesProyecto4RAM/placamadre.png)
 
-4. **Fuente Corsair**
-   ![Fuente Corsair](./imagenes/Fuente.png)
+4. **Tarjeta Gráfica GTX 1050**
+   ![GTX 1050](./RecortesProyecto4RAM/gpufoto.png)
 
-5. **SSD 250 GB**
-   ![SSD](./imagenes/SSD.png)
+5. **Fuente Corsair**
+   ![Fuente Corsair](./RecortesProyecto4RAM/PSU.png)
 
-6. **Placa Madre AM3+**
-   ![Placa Madre AM3+](./imagenes/PlacaMadre.png)
+6. **SSD 250 GB**
+   ![SSD](./RecortesProyecto4RAM/SSD.png)
 
-7. **Gabinete Genérico**
-   ![Gabinete](./imagenes/Gabinete.png)
 
 > Nota: Por favor, asegúrate de agregar las imágenes correspondientes a la carpeta `imagenes` y nombrarlas según lo indicado.
 
