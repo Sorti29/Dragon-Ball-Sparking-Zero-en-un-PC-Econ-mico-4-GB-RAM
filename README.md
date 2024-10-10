@@ -31,7 +31,7 @@ Se utilizó un **mod de estabilización de FPS** para mejorar el rendimiento. Pu
 
 ## Rendimiento
 
-En esta configuración, el juego logra un promedio de 40-50 FPS. Se realizaron ajustes para optimizar el rendimiento y evitar caídas de FPS.
+En esta configuración, el juego logra un promedio de 60 FPS. Se realizaron ajustes para optimizar el rendimiento y evitar caídas de FPS.
 
 ## Instalación y Ajustes
 
@@ -44,7 +44,7 @@ En esta configuración, el juego logra un promedio de 40-50 FPS. Se realizaron a
 
 ### Capturas de Pantalla del Juego y Configuración
 
-1. ![Configuración del Juego](./imagenes/Ajustes.png)
+1. ![Configuración del Juego](./RecortesProyecto4RAM/Ajustes.png)
 2. ![Información del GPU](./imagenes/GPU.PNG)
 3. ![Información del PC](./imagenes/InfoPC.PNG)
 4. ![Juego en acción](./imagenes/Juego.png)
