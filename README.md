@@ -45,7 +45,7 @@ En esta configuración, el juego logra un promedio de 60 FPS. Se realizaron ajus
 ### Capturas de Pantalla del Juego y Configuración
 
 **Configuración del Juego**
-![Configuración del Juego](./RecortesProyecto4RAM/Ajustes.PNG)
+RecortesProyecto4RAM/Ajustes.png
 **Información del GPU**
 ![Información del GPU](./RecortesProyecto4RAM/GPU.PNG)
 **Información del PC**
@@ -59,21 +59,18 @@ En esta configuración, el juego logra un promedio de 60 FPS. Se realizaron ajus
 
 Aquí se incluyen imágenes reales de los componentes utilizados en este proyecto:
 
-
-1. **Memoria RAM 4 GB****Placa Madre AM3+**)**Procesador FX 6300**
+1. **Memoria RAM 4 GB - Placa Madre AM3+ - Procesador FX 6300**
    ![Memoria RAM](./RecortesProyecto4RAM/placamadre.jpg)
 
 2. **Tarjeta Gráfica GTX 1050**
-   ![GTX 1050](./RecortesProyecto4RAM/gpufoto.jgp)
+   ![GTX 1050](./RecortesProyecto4RAM/gpufoto.jpg)
 
 3. **Fuente Corsair**
-   ![Fuente Corsair](./RecortesProyecto4RAM/PSU.jgp)
+   ![Fuente Corsair](./RecortesProyecto4RAM/PSU.jpg)
 
 4. **SSD 250 GB**
-   ![SSD](./RecortesProyecto4RAM/SSD.jgp)
+   ![SSD](./RecortesProyecto4RAM/SSD.jpg)
 
-
-> Nota: Por favor, asegúrate de agregar las imágenes correspondientes a la carpeta `imagenes` y nombrarlas según lo indicado.
 
 ## Conclusión
 
