@@ -101,7 +101,7 @@ Si buscas alternativas con un rendimiento similar a la GTX 1050, considera las s
 
 Estas tarjetas ofrecen un rendimiento similar, con diferencias menores en el consumo de energía, cantidad de VRAM, y soporte para versiones de DirectX.
 
-## Imágenes del Proyecto
+## Imágenes
 
 ### Capturas de Pantalla del Juego y Configuración
 
