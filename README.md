@@ -45,7 +45,7 @@ En esta configuración, el juego logra un promedio de 60 FPS. Se realizaron ajus
 ### Capturas de Pantalla del Juego y Configuración
 
 1**Configuración del Juego**
-. ![Configuración del Juego](./RecortesProyecto4RAM/Ajustes.png
+![Configuración del Juego](./RecortesProyecto4RAM/Ajustes.png
 2. **Información del GPU**
 ![Información del GPU](./RecortesProyecto4RAM/GPU.PNG)
 3.**Información del PC**
