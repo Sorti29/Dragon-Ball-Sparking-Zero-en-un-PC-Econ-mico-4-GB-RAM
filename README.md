@@ -16,6 +16,7 @@ Este proyecto demuestra cómo jugar el nuevo **Dragon Ball Sparking Zero** en un
 | Placa Madre AM3+         | $10,000      | $11.11       |
 | **Total**                | **$90,000**  | **$100.00**  |
 
+**Nota:** También se recomienda utilizar un **procesador Intel i5 de 2da o 3ra generación** con una **placa madre socket 1155**, ya que ofrecería un rendimiento similar al FX 6300 en este tipo de configuración económica.
 > Los precios están en pesos chilenos (CLP) y se ha utilizado un tipo de cambio aproximado de 1 USD = 900 CLP.
 
 ## Configuración del Juego
