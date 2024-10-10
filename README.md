@@ -20,6 +20,11 @@ Este proyecto demuestra cómo jugar el nuevo **Dragon Ball Sparking Zero** en un
 
 **Nota:** También se recomienda utilizar un **procesador Intel i5 de 2da o 3ra generación** con una **placa madre socket 1155**, ya que ofrecería un rendimiento similar al FX 6300 en esta configuración económica.
 
+## Recomendaciones Adicionales
+
+- **Fuente de Poder:** Es recomendable utilizar una fuente de poder con más de 400W y certificación, para asegurar una mayor estabilidad del sistema y prevenir problemas de alimentación en componentes como la tarjeta gráfica.
+- **Memoria RAM:** Se sugiere actualizar a más de 4 GB de RAM si es posible, ya que una cantidad mayor puede mejorar los tiempos de carga y el rendimiento general del sistema, evitando también que la SSD se vea afectada por el uso de memoria virtual en exceso.
+
 ## Configuración del Juego
 
 - **Resolución:** 1920x1080
